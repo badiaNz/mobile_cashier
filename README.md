@@ -65,4 +65,4 @@ Aplikasi Point of Sale (POS) mobile berbasis Flutter yang dirancang untuk memban
 Distribusi di bawah lisensi MIT. Lihat `LICENSE` untuk informasi lebih lanjut.
 
 ---
-Dikembangkan oleh **Antigravity AI** untuk **Badia**.
+
